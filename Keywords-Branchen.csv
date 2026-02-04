@@ -1,0 +1,154 @@
+NACE-Code,Zielgruppe,Keyword1,Keyword2,Keyword3,Keyword4,Keyword5,Keyword6
+01.1,Anbau einjähriger Pflanzen,Ackerbaubetrieb,Landwirtschaftsbetrieb,Getreidebauer,Gemüsebauer,Feldbau,Agrarbetrieb
+01.4,Tierhaltung,Viehzucht,Milchviehbetrieb,Schweinemastbetrieb,Geflügelhof,Rinderzucht,Tierzuchtbetrieb
+01.6,Landwirtschaftliche Dienstleistungen,Lohnunternehmer,Maschinenring,Agrardienstleister,Erntehelfer-Vermittlung,Landwirtschaftsservice,Feldarbeiten
+02.1,Forstwirtschaft,Forstbetrieb,Waldbesitzer,Holzeinschlag,Forstwirt,Waldbewirtschaftung,Forstdienstleister
+03.1,Fischerei und Aquakultur,Fischzucht,Aquakulturbetrieb,Teichwirtschaft,Fischfarm,Garnelenzucht,Fischereigenossenschaft
+05,Kohlenbergbau,Bergwerk,Zeche,Kohleförderung,Tagebau,Braunkohle,Steinkohle
+08,Gewinnung Steine/Erden,Steinbruch,Kieswerk,Sandgrube,Schotterwerk,Natursteinabbau,Baustoffgewinnung
+10.1,Fleischverarbeitung,Metzgerei,Schlachtbetrieb,Fleischerei,Wurstfabrik,Fleischgroßhandel,Zerlegebetrieb
+10.7,Backwaren,Bäckerei,Konditorei,Backstube,Großbäckerei,Brotfabrik,Backwarenproduktion
+11.0,Getränkeherstellung,Brauerei,Getränkehersteller,Safthersteller,Mineralbrunnen,Weinkellerei,Spirituosenhersteller
+13.9,Sonstige Textilien,Textilfabrik,Weberei,Stoffhersteller,Textilproduktion,Garnhersteller,Textilveredelung
+16.1,Säge-/Hobelwerke,Sägewerk,Holzverarbeitung,Hobelwerk,Schnittholzproduktion,Holzhandel,Holzindustrie
+18.1,Druckereien,Druckerei,Printmedien,Offsetdruck,Digitaldruck,Buchdruckerei,Werbedruckerei
+20.1,Chemische Grundstoffe,Chemiefabrik,Chemieunternehmen,Grundstoffhersteller,Chemische Industrie,Spezialchemie,Industriechemie
+21.1,Pharmazeutische Erzeugnisse,Pharmaunternehmen,Arzneimittelhersteller,Pharmaproduktion,Medikamentenhersteller,Pharmafirma,Generikahersteller
+22.2,Kunststoffwaren,Kunststoffverarbeitung,Spritzguss,Kunststofffabrik,Plastikproduktion,Folienherstellung,Kunststofftechnik
+23.1,Glas und Glaswaren,Glaserei,Glashersteller,Glasproduktion,Flachglashersteller,Glasbläserei,Glasveredelung
+24.1,Eisen/Stahl,Stahlwerk,Eisengießerei,Stahlproduktion,Metallhütte,Stahlhandel,Gießerei
+25.1,Stahl-/Leichtmetallbau,Metallbau,Stahlbaufirma,Schlosser,Metallverarbeitung,Konstruktionsschlosserei,Leichtmetallbau
+28.1,Maschinenbau allgemein,Maschinenbauer,Anlagenbau,Sondermaschinenbau,Maschinenfabrik,Fertigungstechnik,Industriemaschinenbau
+29.1,Kraftwagen und -motoren,Automobilzulieferer,Fahrzeugbau,Motorenhersteller,Automobilindustrie,Fahrzeugtechnik,Autoteilehersteller
+31.0,Möbelherstellung,Möbelfabrik,Tischlerei,Möbelproduktion,Küchenhersteller,Polstermöbelhersteller,Möbelmanufaktur
+33.1,Reparatur Metallerzeugnisse,Metallreparatur,Instandhaltung,Maschinenwartung,Industrieservice,Reparaturwerkstatt,Wartungsdienst
+35.1,Elektrizitätsversorgung,Stromversorger,Energieversorger,Stadtwerke,EVU,Stromanbieter,Netzbetreiber
+35.11,Photovoltaik/Solar,Solarfirma,PV-Installateur,Solarteur,Photovoltaik-Unternehmen,Solaranlagenbauer,Solarmontage
+35.12,Wärmepumpen,Wärmepumpen-Installateur,Heizungsspezialist,Wärmepumpenfachbetrieb,Wärmepumpen-Montage,Erneuerbare Wärme,Wärmepumpen-Service
+36.0,Wasserversorgung,Wasserwerk,Wasserversorger,Trinkwasserversorgung,Wasserbetriebe,Wasserverband,Brunnenbau
+38.1,Abfallsammlung,Entsorgungsunternehmen,Müllabfuhr,Abfallwirtschaft,Recyclingfirma,Wertstoffhof,Containerdienst
+41.2,Bau von Gebäuden,Bauunternehmen,Hochbaufirma,Bauträger,Generalunternehmer,Baufirma,Wohnungsbau
+42.1,Straßen-/Bahnbau,Tiefbaufirma,Straßenbau,Infrastrukturbau,Verkehrswegebau,Gleisbau,Tunnelbau
+43.11,Abbrucharbeiten,Abbruchunternehmen,Rückbaufirma,Entkernung,Abrissunternehmen,Demontage,Schadstoffsanierung
+43.21,Elektroinstallation,Elektriker,Elektrofachbetrieb,Elektroinstallateur,E-Meister,Elektrotechnik,Elektrofirma
+43.21.3,Smart Home / Gebäudeautomation,Smart Home Spezialist,Gebäudeautomation,Hausautomatisierung,KNX-Integrator,Gebäudetechnik,Intelligente Haustechnik
+43.21.4,E-Mobilität / Wallbox,Wallbox-Installateur,Ladeinfrastruktur,E-Auto Ladestationen,Elektromobilität,Ladesäulen-Service,E-Mobility-Experte
+43.22,SHK (Sanitär/Heizung/Klima),SHK-Betrieb,Heizungsbauer,Sanitärinstallateur,Installateur,Gas-Wasser-Heizung,Haustechnik
+43.22.1,Heizungsbau,Heizungsinstallateur,Heizungsmonteur,Heizungsfirma,Wärmetechnik,Heizungswartung,Kesselaustausch
+43.22.2,Sanitärinstallation,Sanitärfirma,Klempner,Bad-Installation,Rohrleitungsbau,Sanitärtechnik,Badsanierung
+43.22.3,Klimatechnik/Lüftung,Klimaanlagen-Service,Lüftungstechnik,Kältetechnik,Klimatechniker,RLT-Anlagen,Klimaservice
+43.31,Stuckateur/Verputzer,Stuckateurbetrieb,Verputzerfirma,Fassadenbau,Trockenbau,Innenputz,Außenputz
+43.32,Bautischlerei/-schlosserei,Tischler,Schreinerei,Fensterbau,Türenhersteller,Innenausbau,Holzbau
+43.33,Fußboden/Fliesen/Tapeten,Fliesenleger,Bodenleger,Parkettleger,Raumausstatter,Tapezierer,Fußbodentechnik
+43.34,Maler/Glaser,Malerbetrieb,Lackiererei,Anstreicher,Fassadenanstrich,Glaserbetrieb,Beschichtungstechnik
+43.91,Dachdecker/Zimmerei,Dachdeckerbetrieb,Zimmerei,Dachreparatur,Dachsanierung,Holzbau,Klempnerei-Dach
+45.11,KFZ-Handel (Autohäuser),Autohaus,Autohändler,Fahrzeughandel,Neuwagen,Gebrauchtwagen,Automobilverkauf
+45.20,KFZ-Werkstätten,Autowerkstatt,KFZ-Meisterbetrieb,Autoservice,Autoreparatur,Fahrzeugwartung,Inspektion
+45.20.3,Karosserie-/Lackierbetrieb,Karosseriebauer,Autolackierer,Unfallreparatur,Smart Repair,Fahrzeuglackierung,Beulendoktor
+45.20.4,Reifenservice,Reifenhändler,Reifenwechsel,Reifenmontage,Räderwechsel,Reifeneinlagerung,Felgenservice
+46.1,Handelsvermittlung,Handelsvertreter,Handelsagentur,Vertriebspartner,Vermittlungsagentur,Distributeur,Absatzmittler
+46.2,Großhandel landw. Grundstoffe,Landhandel,Agrargroßhandel,Futtermittelhandel,Saatguthandel,Düngemittelhandel,Landmaschinenhandel
+46.4,Großhandel Gebrauchsgüter,Konsumgütergroßhandel,Haushaltswarenhandel,Textilgroßhandel,Elektrogroßhandel,Möbelgroßhandel,Spielwarengroßhandel
+46.6,Großhandel Maschinen,Maschinenhandel,Industrieausrüster,Werkzeuggroßhandel,Technischer Handel,B2B-Maschinenvertrieb,Anlagenvertrieb
+46.7,Sonstiger Großhandel,Großhändler,B2B-Handel,Fachgroßhandel,Zwischenhandel,Lagerhandel,Distributionszentrum
+46.73,Großhandel Holz/Baustoffe,Baustoffhandel,Holzgroßhandel,Baustoffhändler,Baufachhandel,Holzfachmarkt,Dämmstoffhandel
+46.74,Großhandel Sanitär/Heizung,SHK-Großhandel,Heizungsgroßhandel,Sanitärfachhandel,Installationsgroßhandel,Haustechnikgroßhandel,Badausstellung
+47.1,Einzelhandel (Ladengeschäft),Fachgeschäft,Einzelhändler,Ladenlokal,Fachhandel,Spezialgeschäft,Retailer
+47.74,Apotheken,Apotheke,Pharmazie,Arzneimittelversorgung,Apotheker,Medikamentenverkauf,Gesundheitsberatung
+47.78,Sanitätshäuser,Sanitätshaus,Orthopädietechnik,Medizintechnik-Handel,Reha-Hilfsmittel,Pflegehilfsmittel,Homecare
+47.9,Versand-/Internethandel,Online-Shop,E-Commerce,Versandhandel,Webshop,Onlinehändler,Marketplace-Händler
+49.3,Personenbeförderung,Taxiunternehmen,Personentransport,Mietwagen,Fahrdienst,Shuttleservice,Limousinenservice
+49.4,Güterbeförderung Straße,Spedition,Transportunternehmen,Logistikunternehmen,Fuhrunternehmen,LKW-Transport,Frachtführer
+52.1,Lagerei,Lagerbetrieb,Logistikzentrum,Lagerhaus,Fulfillment,Kommissionierung,Warenumschlag
+53.2,Kurierdienste,Kurier,Paketdienst,Expresslieferung,Same-Day-Delivery,Botendienst,Dokumentenlogistik
+55.1,Hotels,Hotel,Beherbergungsbetrieb,Pension,Gasthof,Hotelkette,Boutique-Hotel
+55.2,Ferienwohnungen,Ferienhaus,Ferienapartment,Urlaubsunterkunft,Ferienvermietung,Airbnb-Vermieter,Vacation Rental
+56.1,Restaurants,Restaurant,Gaststätte,Lokal,Speiselokal,Gastronomie,Imbiss
+56.2,Caterer,Catering-Service,Partyservice,Eventcatering,Business-Catering,Liefercatering,Messecatering
+58.1,Verlage,Verlagshaus,Buchverlag,Zeitschriftenverlag,Medienverlag,Fachverlag,Online-Publisher
+61.1,Telekommunikation,TK-Anbieter,Telefonanbieter,Internetprovider,Mobilfunkanbieter,Telekommunikationsunternehmen,Carrier
+62.01,Softwareentwicklung,Softwarefirma,App-Entwickler,Softwarehaus,IT-Entwickler,Programmierfirma,Software-Agentur
+62.02,IT-Beratung/Systemhäuser,Systemhaus,IT-Dienstleister,IT-Beratung,IT-Systemintegrator,Managed Service Provider,IT-Consultant
+62.03,IT-Betrieb/Hosting,Hosting-Anbieter,Rechenzentrum,Cloud-Provider,Serverhosting,IT-Infrastruktur,Datacenter
+62.09,IT-Support/Helpdesk,IT-Support,Helpdesk-Service,PC-Service,IT-Wartung,EDV-Service,Remote-Support
+64.1,Banken/Sparkassen,Bank,Sparkasse,Finanzinstitut,Kreditinstitut,Genossenschaftsbank,Direktbank
+64.92,Kredite/Baufinanzierung,Baufinanzierer,Kreditvermittler,Hypothekenmakler,Immobilienfinanzierung,Finanzierungsberater,Darlehensvermittler
+64.9,Finanzberater/Vermögensverwalter,Vermögensberater,Finanzplaner,Anlageberater,Wealth Manager,Family Office,Privatbankier
+65.1,Versicherungsgesellschaften,Versicherer,Versicherungsunternehmen,Assekuranz,Rückversicherer,Erstversicherer,Direktversicherer
+66.19,Finanzberatung,Finanzberater,Finanzcoach,Honorarberater,Finanzdienstleister,Kapitalanlageberater,Finanzexperte
+66.22,Versicherungsmakler,Versicherungsmakler,Assekuranzmakler,Versicherungsagentur,Maklerbüro,Industriemakler,Spezialmakler
+66.29,Versicherungsvertreter,Versicherungsvertreter,Versicherungsagentur,Ausschließlichkeitsvertreter,Agentur,Versicherungsvertrieb,Mehrfachagent
+68.1,Kauf/Verkauf Immobilien,Immobilienmakler,Makler,Immobilienvermittlung,Grundstücksmakler,Luxusimmobilien,Gewerbeimmobilien-Makler
+68.2,Vermietung/Verpachtung,Vermieter,Wohnungsunternehmen,Immobilienbesitzer,Bestandshalter,Mietverwaltung,Gewerbevermieter
+68.3,Hausverwaltung,Hausverwaltung,WEG-Verwaltung,Immobilienverwaltung,Property Management,Objektverwaltung,Mietverwaltung
+69.1,Rechtsberatung/Anwälte,Rechtsanwalt,Kanzlei,Anwaltskanzlei,Rechtsanwaltskanzlei,Fachanwalt,Wirtschaftskanzlei
+69.2,Steuerberatung,Steuerberater,Steuerkanzlei,Steuerberatungsgesellschaft,Buchhalter,Lohnbuchhaltung,Wirtschaftsprüfer
+70.2,Unternehmensberatung,Unternehmensberater,Consultant,Managementberatung,Strategieberatung,Prozessberatung,Business Consultant
+71.1,Architekturbüros,Architekt,Architekturbüro,Planungsbüro,Bauplanung,Entwurfsarchitekt,Innenarchitekt
+71.2,Ingenieurbüros,Ingenieurbüro,Planungsingenieur,Statiker,Bauingenieur,Tragwerksplanung,TGA-Planung
+73.1,Werbeagenturen,Werbeagentur,Kreativagentur,Marketingagentur,Full-Service-Agentur,Digitalagentur,Designagentur
+75.0,Tierarztpraxen,Tierarzt,Tierarztpraxis,Tierklinik,Veterinärmedizin,Kleintierpraxis,Pferdepraxis
+78.1,Arbeitsvermittlung/Personalvermittler,Personalvermittlung,Headhunter,Recruiting-Agentur,Personalberatung,Executive Search,Jobvermittlung
+78.2,Zeitarbeit,Zeitarbeitsfirma,Personaldienstleister,Arbeitnehmerüberlassung,Leiharbeit,Personalleasing,Arbeitsvermittlung
+79.1,Reisebüros,Reisebüro,Reiseveranstalter,Reiseagentur,Touristik,Urlaubsplanung,Geschäftsreisen
+80.1,Wach-/Sicherheitsdienste,Sicherheitsdienst,Wachdienst,Security,Objektschutz,Sicherheitsunternehmen,Werkschutz
+81.1,Hausmeisterdienste,Hausmeisterservice,Facility Service,Objektbetreuung,Liegenschaftsbetreuung,Hausbetreuung,Gebäudeservice
+81.2,Gebäudereinigung,Reinigungsfirma,Gebäudereiniger,Putzfirma,Industriereinigung,Unterhaltsreinigung,Büroreinigung
+81.3,Garten-/Landschaftsbau,Gärtner,Landschaftsbauer,GaLaBau,Gartenpflege,Grünanlagenpflege,Baumschule
+82.2,Callcenter,Callcenter,Telefonservice,Kundenservice-Center,Contact Center,Telemarketing,Inbound-Service
+82.91,Inkasso/Factoring,Inkasso,Forderungsmanagement,Factoring,Debitorenmanagement,Mahnwesen,Forderungseinzug
+84.1,Behörden/Kommunen,Stadtverwaltung,Gemeindeverwaltung,Landratsamt,Behörde,Bürgeramt,Öffentliche Verwaltung
+85.1,Schulen (staatlich),Schule,Gymnasium,Grundschule,Realschule,Gesamtschule,Berufsschule
+85.3,Berufsbildung/Akademien,Akademie,Bildungsinstitut,Weiterbildungsinstitut,Schulungszentrum,Fortbildungsakademie,Bildungsträger
+85.5,Fahrschulen/Coaching/Nachhilfe,Fahrschule,Nachhilfeinstitut,Lernstudio,Coaching-Institut,Sprachschule,Musikschule
+86.10.1,Akutkrankenhäuser,Krankenhaus,Klinik,Klinikum,Akutklinik,Notfallkrankenhaus,Kreiskrankenhaus
+86.10.2,Hochschulkliniken,Universitätsklinikum,Uniklinik,Hochschulklinik,Lehrkrankenhaus,Forschungsklinik,Med. Hochschule
+86.10.3,Reha-Kliniken,Rehaklinik,Rehabilitationsklinik,Kurhaus,Reha-Zentrum,Fachklinik,Anschlussheilbehandlung
+86.10.4,Privatkliniken,Privatklinik,Privatkrankenhaus,Spezialklinik,Privat-Hospital,Schönheitsklinik,Fachkrankenhaus
+86.21,Arztpraxen Allgemeinmedizin,Hausarzt,Allgemeinarzt,Hausarztpraxis,Allgemeinmediziner,Familienarzt,Landarzt
+86.22,Facharztpraxen (allgemein),Facharzt,Facharztpraxis,MVZ,Medizinisches Zentrum,Fachärzte,Gemeinschaftspraxis
+86.22.01,Orthopädie/Unfallchirurgie,Orthopäde,Orthopädische Praxis,Unfallchirurg,Sportorthopädie,Gelenkchirurgie,Orthopädiezentrum
+86.22.02,Kardiologie,Kardiologe,Herzpraxis,Kardiologische Praxis,Herzspezialist,Herzkatheterlabor,Rhythmologie
+86.22.03,Dermatologie,Hautarzt,Dermatologe,Hautarztpraxis,Hautklinik,Dermatologische Praxis,Hautzentrum
+86.22.04,Radiologie/Nuklearmedizin,Radiologe,Radiologische Praxis,MRT-Zentrum,CT-Praxis,Nuklearmedizin,Bildgebung
+86.22.05,Gynäkologie,Frauenarzt,Gynäkologe,Frauenärztin,Gynäkologische Praxis,Geburtshilfe,Frauenklinik
+86.22.06,Urologie,Urologe,Urologische Praxis,Männerarzt,Urologie-Zentrum,Prostata-Zentrum,Andrologie
+86.22.07,HNO (Hals-Nasen-Ohren),HNO-Arzt,Hals-Nasen-Ohren-Arzt,HNO-Praxis,Ohrenarzt,Phoniatrie,HNO-Zentrum
+86.22.08,Augenheilkunde,Augenarzt,Augenpraxis,Augenklinik,Ophthalmologe,Augenzentrum,Sehschule
+86.22.09,Neurologie,Neurologe,Neurologische Praxis,Nervenfacharzt,Neurologie-Zentrum,Kopfschmerzzentrum,Epilepsiezentrum
+86.22.10,Psychiatrie/Psychotherapie,Psychiater,Psychotherapeut,Psychiatrische Praxis,Nervenarzt,Psychosomatik,Verhaltenstherapie
+86.22.11,Gastroenterologie,Gastroenterologe,Magen-Darm-Arzt,Endoskopie,Gastroenterologische Praxis,Darmzentrum,Hepatologie
+86.22.13,Onkologie/Hämatologie,Onkologe,Krebsarzt,Onkologische Praxis,Hämatologie,Tumorzentrum,Krebszentrum
+86.22.17,Chirurgie (ambulant),Chirurg,Chirurgische Praxis,Ambulante Chirurgie,Tagesklinik,OP-Zentrum,Ambulantes OP
+86.22.21,Sportmedizin,Sportmediziner,Sportarzt,Sportmedizinische Praxis,Leistungsdiagnostik,Sportorthopädie,Athletenbetreuung
+86.22.22,Kinder-/Jugendmedizin,Kinderarzt,Pädiater,Kinderarztpraxis,Kinderklinik,Jugendmedizin,Neonatologie
+86.23,Zahnarztpraxen,Zahnarzt,Zahnarztpraxis,Zahnklinik,Dentist,Oralchirurg,Kieferorthopäde
+86.90.11,Psychologische Psychotherapeuten,Psychotherapeut,Psychologische Praxis,Verhaltenstherapeut,Tiefenpsychologe,Analytiker,Traumatherapeut
+86.90.21,Physiotherapie,Physiotherapeut,Krankengymnastik,Physiopraxis,Physiotherapiepraxis,Manuelle Therapie,Bewegungstherapie
+86.90.22,Ergotherapie,Ergotherapeut,Ergotherapiepraxis,Beschäftigungstherapie,Handtherapie,Arbeitstherapie,Ergotherapiezentrum
+86.90.23,Logopädie,Logopäde,Logopädische Praxis,Sprachtherapie,Stimmtherapie,Sprechtherapie,Schlucktherapie
+86.90.24,Osteopathie,Osteopath,Osteopathische Praxis,Manuelle Medizin,Craniosacral,Faszientherapie,Osteopathiezentrum
+86.90.91,Medizinische Labore (allgemein),Labor,Medizinlabor,Laborarztpraxis,Diagnostiklabor,Analyselabor,Labormedizin
+86.90.92,Blutanalyselabore,Blutlabor,Hämatologisches Labor,Blutdiagnostik,Blutuntersuchung,Klinisches Labor,Labordiagnostik
+86.90.93,Mikrobiologie-Labore,Mikrobiolabor,Bakteriologie,Infektionsdiagnostik,Hygienelabor,Erregerdiagnostik,Mikrobiologie
+86.90.94,Pathologie-Labore,Pathologie,Histologie,Zytologie,Gewebeuntersuchung,Tumordiagnostik,Pathologisches Institut
+86.90.95,Humangenetik-Labore,Genetiklabor,Humangenetik,Gendiagnostik,Pränataldiagnostik,DNA-Analyse,Erbgutanalyse
+86.90,Optiker/Hörakustiker,Optiker,Augenoptiker,Hörakustiker,Brillengeschäft,Hörgeräteakustiker,Sehzentrum
+86.90,Heilpraktiker,Heilpraktiker,Naturheilpraxis,Alternativmedizin,Homöopath,Naturheilkunde,Heilpraktikerpraxis
+87.1,Pflegeheime,Pflegeheim,Seniorenheim,Altenpflegeheim,Pflegeeinrichtung,Altersheim,Seniorenpflegeheim
+87.3,Altenheime/Seniorenresidenzen,Seniorenresidenz,Betreutes Wohnen,Seniorenwohnanlage,Altenheim,Seniorenstift,Wohnstift
+88.1,Ambulante Pflegedienste,Pflegedienst,Ambulante Pflege,Häusliche Pflege,Krankenpflege,Pflegeservice,Sozialstation
+88.10.2,24h-Pflege-Vermittlung,24-Stunden-Pflege,Betreuungsvermittlung,Pflegevermittlung,Seniorenbetreuung,Live-in-Pflege,Haushaltshilfe
+88.91.1,Kinderkrippen (0-3 Jahre),Kinderkrippe,Kita,Kindertagesstätte,Krippe,Kinderbetreuung,Kleinkindbetreuung
+88.91.2,Kindergärten (3-6 Jahre),Kindergarten,Kita,Kindertagesstätte,Vorschule,Kinderhaus,Kinderladen
+88.9,Jugendhilfe,Jugendhilfeeinrichtung,Jugendamt,Jugendwohngruppe,Erziehungshilfe,Heimerziehung,Jugendzentrum
+93.1,Fitnessstudios,Fitnessstudio,Gym,Sportstudio,Fitnesscenter,Health Club,Kraftsportstudio
+93.2,Freizeitparks/Bäder,Freizeitpark,Schwimmbad,Freibad,Hallenbad,Therme,Erlebnisbad
+95.1,Reparatur IT-Geräte,PC-Reparatur,Computer-Service,IT-Reparatur,Handyreparatur,Laptop-Reparatur,Datenrettung
+95.2,Reparatur Haushaltsgeräte,Hausgerätereparatur,Elektroreparatur,Waschmaschinenreparatur,Kühlschrankreparatur,Geräteservice,Reparaturservice
+96.02,Friseure/Kosmetik,Friseursalon,Friseur,Kosmetikstudio,Haarsalon,Beauty-Salon,Nagelstudio
+96.03,Bestattungsinstitute,Bestatter,Bestattungsunternehmen,Beerdigungsinstitut,Trauerhaus,Bestattungshaus,Pietät
+96.04,Wellness/Sauna,Wellnesscenter,Spa,Saunalandschaft,Day Spa,Massagestudio,Beautyfarm
+N/A,Arbeitsschutz/Arbeitsmedizin,Arbeitsmediziner,Betriebsarzt,Arbeitssicherheit,Fachkraft für Arbeitssicherheit,Arbeitsschutzdienst,Betriebsmedizin
+N/A,Plakatwerbung/Außenwerbung,Außenwerbung,Plakatwerbung,Billboard-Werbung,Out-of-Home,Werbeträger,Großflächenwerbung
+N/A,Business-Netzwerke/BNI-ähnlich,Business-Netzwerk,Unternehmerverband,Wirtschaftsverein,Networking-Club,Unternehmertreff,Branchenverband
