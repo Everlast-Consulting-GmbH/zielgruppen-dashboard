@@ -1102,9 +1102,13 @@
                 const values = parseCSVLine(line);
 
                 // Use Cases aus den einzelnen Checkbox-Spalten zusammenbauen
+                // H(7): Voice Inbound, I(8): Voice Outbound, J(9): KI-Wissensmanagement
+                // K(10): Indiv. Workflows, L(11): Chatbot, M(12): Angebot, N(13): Support
                 const useCases = [];
                 if (hasValue(values[7])) useCases.push('voice-inbound');
                 if (hasValue(values[8])) useCases.push('voice-outbound');
+                if (hasValue(values[9])) useCases.push('wissen');
+                if (hasValue(values[10])) useCases.push('workflows');
                 if (hasValue(values[11])) useCases.push('chatbot');
                 if (hasValue(values[12])) useCases.push('angebot');
                 if (hasValue(values[13])) useCases.push('support');
