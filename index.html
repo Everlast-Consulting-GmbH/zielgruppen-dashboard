@@ -906,6 +906,7 @@
     <script>
         // ===== KONFIGURATION =====
         const SHEET_ID = '1a9_4DEy9K8vaehLUujwHDnvFDCM5d1Dakm9c40bTKPg';
+        const MAIN_GID = '275775392'; // Tab mit Zielgruppen-Daten
 
         // Standardisierte Use Cases
         const USE_CASES = {
@@ -983,7 +984,7 @@
                 // JSONP Script einfügen
                 const script = document.createElement('script');
                 script.id = 'jsonp-script';
-                script.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=responseHandler:${callbackName}`;
+                script.src = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?gid=${MAIN_GID}&tqx=responseHandler:${callbackName}`;
                 script.onerror = () => {
                     console.error('JSONP Ladefehler');
                     resolve(null);
